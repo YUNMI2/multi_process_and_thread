@@ -10,6 +10,8 @@
 - threading
 - multiprocessing
 
+### Reference
+- [多进程 multiprocessing 模块](https://blog.csdn.net/cityzenoldwang/article/details/78584175)
 
 ### Introduction
 - extract info from .json.gz 
